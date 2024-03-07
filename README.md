@@ -1,0 +1,31 @@
+# SAVE DATA 1XBET Fishing
+
+Capture the st, i, ft, cf, tcf, us y gs Value of 1XBET fishing game using Puppeteer
+<br /><br />
+
+## How to use
+
+- Change the 1XBET URL in "capture.js" (if needed).
+- Change the browser location in "launch.js".
+- Change the headless value in "launch.js" to false to run the browser in background (if needed).
+- Then Run:
+
+```bash
+  npm install
+  node capture.js
+```
+
+- The values of st, i, ft, cf, tcf, us y gs will added to the data.csv file.
+
+- Example:
+  st, i, ft, cf, tcf, us, gs
+  1998119, 2, 5, 2.2, 1.1, 52, 3
+
+data:
+Id: 1998119
+Number fish: 2
+-- 5
+Profit: 2.2
+Total Profit 1.1
+-- 52
+-- 3
