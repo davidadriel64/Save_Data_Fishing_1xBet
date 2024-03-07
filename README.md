@@ -17,15 +17,16 @@ Capture the st, i, ft, cf, tcf, us y gs Value of 1XBET fishing game using Puppet
 
 - The values of st, i, ft, cf, tcf, us y gs will added to the data.csv file.
 
-- Example:
-  st, i, ft, cf, tcf, us, gs
+- Example:<br />
+  st, i, ft, cf, tcf, us, gs<br />
   1998119, 2, 5, 2.2, 1.1, 52, 3
+  <br /><br />
 
-data:
-Id: 1998119
-Number fish: 2
--- 5
-Profit: 2.2
-Total Profit 1.1
--- 52
--- 3
+data:<br />
+Id: 1998119 <br />
+Number fish: 2<br />
+-- 5<br />
+Profit: 2.2<br />
+Total Profit 1.1<br />
+-- 52<br />
+-- 3<br />
