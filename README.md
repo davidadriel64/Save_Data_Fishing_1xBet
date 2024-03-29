@@ -2,6 +2,8 @@
 
 Capture the st, i, ft, cf, tcf, us y gs Value of 1XBET fishing game using Puppeteer
 <br /><br />
+important:<br />
+This script is not a predictor. What it does is gather information from the website's websockets to store a history of crashes while it's activated. <br /><br />
 
 ## How to use
 
